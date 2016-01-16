@@ -1,0 +1,31 @@
+{
+  "name": "echo-console",
+  "version": "1.0.0",
+  "description": "Chalk bindings to console",
+  "main": "echo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorthwestMotorsport/echo-console.git"
+  },
+  "keywords": [
+    "echo",
+    "console.log",
+    "log",
+    "chalk",
+    "color",
+    "console",
+    "message"
+  ],
+  "author": "Gavin Tronset <gavin@nwmsrocks.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NorthwestMotorsport/echo-console/issues"
+  },
+  "homepage": "https://github.com/NorthwestMotorsport/echo-console#readme",
+  "dependencies": {
+    "chalk": "^1.1.1"
+  }
+}
