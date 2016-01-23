@@ -1,6 +1,6 @@
 {
   "name": "echo-console",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Chalk bindings to console",
   "main": "echo.js",
   "scripts": {
